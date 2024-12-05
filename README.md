@@ -1,4 +1,8 @@
 <div>
+  <span> projeto S.A </span></br></br>
+  esse projeto foi feito para resolver o problema da pousada Quinta do Ypuã</br>
+  feito em react e com a bilbioteca node.js tentamos melhorar o sistema de hospedagem e de cadastro de reservas</br></br>
+  
   para podermos iniciar o projeto siga o passo a passo abaixo:</br></br>
 
   - abra o pgadmin</br>
